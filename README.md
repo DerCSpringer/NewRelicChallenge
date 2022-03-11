@@ -45,6 +45,7 @@ Sanitize the source files to remove your name from comments
 - Any additional special instructions to set up and run project
 - Push the code to a github.com repo and invite the user specified in the email.
 
+# My Comments
 
 TODO: 
 + Make network call a protocol type, which allows us to test easier
@@ -69,7 +70,7 @@ remove singleton class for easier testability
 + some methods in allcats viewmodel can be marked as private
 + main thread checker
 
-Assumptions:
+# Assumptions
 
 I've included my TODO list of things I wanted to do in the app if you're curious of my some of my process.
 
