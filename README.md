@@ -96,4 +96,4 @@ There are many hard coded numbers regarding the paginated data.  Ideally we'd ge
 
 The alert displaying an error ins't the greatest experience while scrolling.  Again it's something I'd change if I had more time.
 
-I'd like to refactor `getMoreCats(callback: @escaping (Error?) -> ())` { in AllCatsViewModel but I've spent enough time tinkering with it for now. 
+I'd like to refactor `getMoreCats(callback: @escaping (Error?) -> ())` in AllCatsViewModel but I've spent enough time tinkering with it for now. 
